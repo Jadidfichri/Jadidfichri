@@ -1,0 +1,18 @@
+![gb 1](https://github.com/user-attachments/assets/c1b5259b-a051-459f-81ec-5c86c3e843de)
+
+![jadid ss](https://github.com/user-attachments/assets/2431fb54-2242-4cbe-9461-f45bfb4da8a5)
+PENJELASANNYA print : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks. import : fungsi lanjut yang dipanggil oleh statement import. random : untuk menentukan suatu pilihan. range : merupakan fungsi yang menghasilkan list. Fungsi ini akan menciptakan sebuah list baru dengan rentang nilai tertentu. uniform: digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x, dan batas akhir bilangan y
+
+
+![algm](https://github.com/user-attachments/assets/ce336087-e19f-4666-9bb2-f569e37c7dea)
+
+Penjelasan Kode :
+
+1. Inisialisasi Modal Awal: Modal awal ditetapkan sebesar 100 juta.
+2. Daftar Persentase Keuntungan: Persentase keuntungan untuk setiap bulan disimpan dalam list profit_percentage.
+3. Loop untuk Hitung Keuntungan: Loop for menghitung keuntungan setiap bulan dan menambahkannya ke total_profit.
+4.  Output Keuntungan: Program menampilkan keuntungan per bulan dan total keuntungan setelah 8 bulan.
+5.  
+Jika dijalankan, kode ini akan menampilkan keuntungan bulanan serta total keuntungan dari bulan pertama hingga kedelapan
+
+![ss jadid](https://github.com/user-attachments/assets/f1956d6e-1efa-4c99-9a46-7c9cad296f85)
